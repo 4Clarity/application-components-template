@@ -3,3 +3,7 @@ Welcome to the Clarity Pros CSS template development package. This will eventual
 But for now we are just getting started.
 
 Again Welcome.
+
+
+Revision History: 
+**Outlined the Templates** 
